@@ -1,0 +1,210 @@
+Vendor Name: Arest Cafe
+Item Code: item1734661427912
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\arestcafeagliopasta.jpg
+Food Name: Aglio Olio Pasta 
+Description: Spaghetti with garlic, chili flakes, extra virgin olive oil, turkey ham, wild mushroom, Japanese cucumber, and cherry tomatoes. 
+Price: RM15.0
+-----------------------
+Vendor Name: Arest Cafe
+Item Code: item1734661509177
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\arestcabonarapasta.jpg
+Food Name: Truffle Carbonara with Bacon Brisket
+Description: Rich carbonara sauce with truffle oil, poached egg, white button mushroom, onion, parmesan cheese, and a choice of smoked beef brisket or turkey ham.
+Price: RM13.0
+-----------------------
+Vendor Name: Arest Cafe
+Item Code: item1734661558272
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\arestcafespicymalaburger.jpg
+Food Name: Mala Whole Leg Chicken Burger
+Description: Crispy hand-battered fried whole leg chicken topped with double cheddar cheese, peach slices, and tartar sauce. Served with thick cut fries and onion rings on the side. 
+Price: RM14.0
+-----------------------
+Vendor Name: Arest Cafe
+Item Code: item1734661606730
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\arestcafecrabfriedrice.png
+Food Name: Crab Meat Kam Heong Fried Rice
+Description: Hawker style Kam Heong fried rice with abundance of crab meat, tobiko, spring onion, and hint of red chili. 
+Price: RM15.0
+-----------------------
+Vendor Name: Arest Cafe
+Item Code: item1734661645899
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\arestcafealmondcheesecake.jpg
+Food Name: Almond Cheese Cake
+Description: A creamy almond cheesecake with a nutty crust, topped with rich, toasted almonds. 
+Price: RM15.0
+-----------------------
+Vendor Name: Arest Cafe
+Item Code: item1734661690011
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\arestcafepizza.jpg
+Food Name: Bechamel Chicken Ranch Pizza
+Description: Thin-crust pizza topped with cheddar, feta, spiced chicken, capsicum, button mushroom, sour cream, dill, and garlic bechamel sauce.
+Price: RM20.0
+-----------------------
+Vendor Name: McDonald's
+Item Code: item1734663177118
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\mcdnasilemak.png
+Food Name: Nasi Lemak
+Description: Fragrant coconut rice, crispy anchovies, fresh cucumber and fried egg, topped with spicy sambal.
+Price: RM13.0
+-----------------------
+Vendor Name: McDonald's
+Item Code: item1734663323954
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\mcdmcdeluxe.png
+Food Name: Crispy Chicken Burger
+Description: Specially marinated whole chicken thigh meat with a delightfully crispy coat, layered with fresh lettuce and special sauce in a corn meal bun. 
+Price: RM10.0
+-----------------------
+Vendor Name: McDonald's
+Item Code: item1734663367169
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\mcdporridge.png
+Food Name: Chicken Porridge 
+Description: Juicy chicken strips in mouth-watering porridge, garnished with spring onions, sliced ginger, fried shallots and diced chilies. 
+Price: RM8.0
+-----------------------
+Vendor Name: McDonald's
+Item Code: item1734663404700
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\mcdfriedchicken.png
+Food Name: Spicy Fried Chicken 
+Description: Six spicy fried chicken pieces packed with bold spices and fiery, mouthwatering heat. 
+Price: RM20.0
+-----------------------
+Vendor Name: McDonald's
+Item Code: item1734663436541
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\curlyfriespic.jpg
+Food Name: Curly Fries
+Description: Russet Burbank variety potatoes for that fluffy inside, crispy outside taste of our world-famous fries.  
+Price: RM6.0
+-----------------------
+Vendor Name: McDonald's
+Item Code: item1734663476670
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\mcdgcb.png
+Food Name: Grilled Chicken Burger
+Description: A delicious grilled chicken thigh, topped with crunchy iceberg lettuce and smoky chargrilled sauce, served in a toasted sesame seed bun.  
+Price: RM12.0
+-----------------------
+Vendor Name: Thong Kee
+Item Code: item1734663728767
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\thongkeeprawnmee.jpg
+Food Name: TK Signature Fried Prawn Mee
+Description: Unique prawn soup with homemade belacan, fried with prawn, egg, yellow mee and lai fen.
+Price: RM11.0
+-----------------------
+Vendor Name: Thong Kee
+Item Code: item1734663773174
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\thongkeecharkeuytiao.jpg
+Food Name: TK Char Kueh Teow
+Description: Wok hei kuey teow with kerrang, prawn, and egg which all Malaysian's favourite.
+Price: RM12.0
+-----------------------
+Vendor Name: Thong Kee
+Item Code: item1734663803602
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\thongkeeclaypotloushufen.png
+Food Name: Claypot Lau Shu Fen
+Description: Flavourful minced pork, fish ball and a raw egg in the hot claypot of lau shu fen.
+Price: RM12.0
+-----------------------
+Vendor Name: Thong Kee
+Item Code: item1734663832217
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\thongkeeclaypotyeemee.jpg
+Food Name: Claypot Yi Mee
+Description: Flavourful minced pork, fish ball and egg in the hot claypot of yi mee.
+Price: RM12.0
+-----------------------
+Vendor Name: Thong Kee
+Item Code: item1734663876397
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\thongkeecurrypuff.jpg
+Food Name: Curry Puff (3pcs)
+Description: Puffy curry pastry with potatoes, eggs, and minor chicken.
+Price: RM7.0
+-----------------------
+Vendor Name: Thong Kee
+Item Code: item1734663924004
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\thongkeebreakfast.jpg
+Food Name: 7 Star Breakfast
+Description: Big breakfast with sausages, ham, hashbrown, sunny side up and toasted butter bread.
+Price: RM10.0
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665072260
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susCoralRoll.png
+Food Name: Coral Roll
+Description: omelette & cucumber sushi roll topped with boiled scallop & smelt roe
+Price: RM17.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665112888
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susDragonMentaiRoll.png
+Food Name: Dragon Mentai Roll
+Description: fried tiger prawn sushi roll topped with avocado & cod roe mayonnaise
+Price: RM19.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665160579
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susDragonRoll.png
+Food Name: Dragon Roll
+Description: fried tiger prawn sushi roll, topped with avocado & flying-fish roe
+Price: RM17.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665203624
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susFirecrackerRoll.png
+Food Name: Firecracker Roll
+Description: salmon, cream cheese & cucumber sushi roll topped with spicy mayonnaise & bonito flakes
+Price: RM19.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665238417
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susMentaikoSpiderRoll.png
+Food Name: Mentaiko Spider Roll
+Description: soft shell cab sushi roll, topped with smelt roe, avocado & cod roe mayonnaise
+Price: RM22.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665270022
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susSalmonMentaiRoll.png
+Food Name: Salmon Mentai Roll
+Description: omelette & cucumber sushi roll, topped with salmon & cod roe mayonnaise
+Price: RM19.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665309364
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susSpicyEbiRoll.png
+Food Name: Spicy Ebi Roll
+Description: prawn tempura & avocado sushi roll topped with fried tofu & spicy mayonnaise
+Price: RM18.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665351362
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susSpicySalmonRoll.png
+Food Name: Spicy Salmon Roll
+Description: crabmeat, avocado & omelette sushi roll, topped with seared salmon & spicy sauce
+Price: RM20.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665447883
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susSpicySpiderRoll.png
+Food Name: Spicy Spider Roll
+Description: Spicy soft shell crab sushi roll, topped with smelt roe & fried crabmeat
+Price: RM22.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665485418
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susSpicyUnagiRoll.png
+Food Name: Spicy Unagi Roll
+Description: spicy roasted eel sushi roll, topped with smelt roe, cucumber & fried crabmeat
+Price: RM20.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665526041
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susStaminaRoll.png
+Food Name: Stamina Roll
+Description: omelette & cucumber sushi roll, topped with roasted eel
+Price: RM20.8
+-----------------------
+Vendor Name: Sushi Zanmai
+Item Code: item1734665593906
+Picture File Path: C:\JavaAsg\FoodDeliverySystem\src\main\resources\MenuPic\susVolcanoRoll.png
+Food Name: Volcano Roll
+Description: fried prawn sushi roll topped with smelt roe & cod roe
+Price: RM15.8
+-----------------------

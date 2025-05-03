@@ -1,0 +1,63 @@
+CART1738826839220
+Vendor Name: Arest Cafe
+Customer Name: a
+Food Name: Aglio Olio Pasta
+Quantity: 1
+Price per Item: RM15.00
+Total Price: RM15.00
+Status: Payment Completed
+----------
+CART1738826914020
+Vendor Name: McDonald's
+Customer Name: a
+Food Name: Nasi Lemak
+Quantity: 1
+Price per Item: RM13.00
+Total Price: RM13.00
+Status: Payment Completed
+----------
+CART1738826918156
+Vendor Name: McDonald's
+Customer Name: a
+Food Name: Crispy Chicken Burger
+Quantity: 1
+Price per Item: RM10.00
+Total Price: RM10.00
+Status: Payment Completed
+----------
+CART1739850158336
+Vendor Name: Arest Cafe
+Customer Name: a
+Food Name: Aglio Olio Pasta
+Quantity: 1
+Price per Item: RM15.00
+Total Price: RM15.00
+Status: Payment Completed
+----------
+CART1739857384200
+Vendor Name: Arest Cafe
+Customer Name: a
+Food Name: Aglio Olio Pasta
+Quantity: 1
+Price per Item: RM15.00
+Total Price: RM15.00
+Status: Payment Completed
+----------
+CART1739857400862
+Vendor Name: McDonald's
+Customer Name: a
+Food Name: Crispy Chicken Burger
+Quantity: 1
+Price per Item: RM10.00
+Total Price: RM10.00
+Status: Payment Completed
+----------
+CART1739857417030
+Vendor Name: Arest Cafe
+Customer Name: a
+Food Name: Crab Meat Kam Heong Fried Rice
+Quantity: 1
+Price per Item: RM15.00
+Total Price: RM15.00
+Status: Payment Completed
+----------

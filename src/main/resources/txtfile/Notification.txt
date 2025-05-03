@@ -1,0 +1,538 @@
+Notification ID: NOTIFICATION1737357682159
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM20.00 (including RM5.00 delivery fee) completed successfully.
+Datetime: 2025-01-20T15:21:22.160240600
+----------
+Notification ID: NOTIFICATION1737357699343
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM14.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-01-20T15:21:39.343972700
+----------
+Notification ID: NOTIFICATION1737357712179
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM15.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-01-20T15:21:52.179342200
+----------
+Notification ID: NOTIFICATION1737357738488
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1737357682111 has been accepted.
+Datetime: 2025-01-20T15:22:18.488298400
+----------
+Notification ID: NOTIFICATION1737357741564
+Title: Order Rejected
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1737357699336 has been rejected. A refund of RM14.00 has been processed.
+Datetime: 2025-01-20T15:22:21.564066500
+----------
+Notification ID: NOTIFICATION1737357769823
+Title: Order Completed
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1737357682111 has been completed. Kindly wait as our runner delivers your food to your address. Thank you for your patience and support!
+Datetime: 2025-01-20T15:22:49.823776500
+----------
+Notification ID: NOTIFICATION1737390981114
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM13.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-01-21T00:36:21.115057300
+----------
+Notification ID: NOTIFICATION1737391098738
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM13.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-01-21T00:38:18.738361200
+----------
+Notification ID: NOTIFICATION1737391312757
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM15.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-01-21T00:41:52.757820800
+----------
+Notification ID: NOTIFICATION1737391583662
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM13.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-01-21T00:46:23.662564800
+----------
+Notification ID: NOTIFICATION1737436354801
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM13.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-01-21T13:12:34.801489900
+----------
+Notification ID: NOTIFICATION1737437314167
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM13.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-01-21T13:28:34.167788500
+----------
+Notification ID: NOTIFICATION1738168185148
+Title: Review submitted
+Customer Name: a
+Notification Detail: wdawdawdawdwadaw
+Datetime: 2025-01-30T00:29:45.142515200
+----------
+Notification ID: NOTIFICATION1738168506227
+Title: Review submitted
+Customer Name: a
+Notification Detail: awdawdawdawdaw
+Datetime: 2025-01-30T00:35:06.222513500
+----------
+Notification ID: NOTIFICATION1738230308052
+Title: Review submitted
+Customer Name: a
+Notification Detail: 'wdawdawd ' review was posted on Arest Cafe's review page
+Datetime: 2025-01-30T17:45:08.046842
+----------
+Notification ID: NOTIFICATION1738255819900
+Title: Request to Top-Up credit submitted
+Customer Name: a
+Notification Detail: '10.0' was sent to admin to request top-up credits 
+Datetime: 2025-01-31T00:50:19.892453300
+----------
+Notification ID: NOTIFICATION1738255984660
+Title: Request to Top-Up credit submitted
+Customer Name: a
+Notification Detail: '10.0' was sent to admin to request top-up credits 
+Datetime: 2025-01-31T00:53:04.660269900
+----------
+Notification ID: NOTIFICATION1738256007910
+Title: Request to Top-Up credit submitted
+Customer Name: a
+Notification Detail: '16.0' was sent to admin to request top-up credits 
+Datetime: 2025-01-31T00:53:27.910214
+----------
+Notification ID: NOTIFICATION1738507919450
+Title: Request to Top-Up credit submitted
+Customer Name: a
+Notification Detail: RM'20.0' was sent to admin to request top-up credits 
+Datetime: 2025-02-02T22:51:59.447426300
+----------
+Notification ID: NOTIFICATION1738544561641
+Title: Receipt Sent
+Customer Name: a
+Notification Detail: Your receipt is ready below.
+==========================================
+-                          APU FOODCOURT                          -
+-       ** OFFICIAL TRANSACTION RECEIPT **      -
+==========================================
+Transaction ID   : TRANSACTION1737357682101
+Customer Name    : a
+Item Description : Aglio Olio Pasta x 1
+Total Amount     : -RM20.00
+Transaction Date : 2025-01-20T15:21:22.154241200
+Receipt Status   : Generated
+==========================================
+-    Thank you for dining with us at APU Foodcourt!    -
+We appreciate your support and hope to serve you again soon.
+==========================================
+|| || ||| || |||| ||| ||||| || ||| || ||||| || ||| || |||| ||| ||||| || ||| || |||||| || |||
+|| ||||| ||| || |||| ||| ||| |||| || ||||| || ||| || |||| ||| ||||| || ||| || |||||| || |||
+==========================================
+Datetime: 2025-02-03T09:02:41.677718900
+----------
+Notification ID: NOTIFICATION1738552051942
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM74.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T11:07:31.943982
+----------
+Notification ID: NOTIFICATION1738552068942
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM12.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T11:07:48.942576900
+----------
+Notification ID: NOTIFICATION1738552182577
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM60.40 (including RM5.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T11:09:42.578364
+----------
+Notification ID: NOTIFICATION1738552260989
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552051909 has been accepted.
+Datetime: 2025-02-03T11:11:01.012583700
+----------
+Notification ID: NOTIFICATION1738552266645
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552051909 has been completed. Your meal is ready and waiting for you to enjoy at the restaurant. Thank you for dining with us!
+Datetime: 2025-02-03T11:11:06.645667900
+----------
+Notification ID: NOTIFICATION1738552365485
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552068937 has been accepted.
+Datetime: 2025-02-03T11:12:45.485690500
+----------
+Notification ID: NOTIFICATION1738552371879
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552068937 has been completed. Please collect your order at the counter. Thank you for choosing us!
+Datetime: 2025-02-03T11:12:51.880323500
+----------
+Notification ID: NOTIFICATION1738552422157
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552182551 has been accepted.
+Datetime: 2025-02-03T11:13:42.158277300
+----------
+Notification ID: NOTIFICATION1738552428380
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552182551 has been completed. Kindly wait as our runner delivers your food to your address. Thank you for your patience and support!
+Datetime: 2025-02-03T11:13:48.380252900
+----------
+Notification ID: NOTIFICATION1738552518980
+Title: Order Accepted by Runner
+Customer Name: a
+Notification Detail: Delivery runner is delivering your order with Order ID: ORDER1738552182551.
+Datetime: 2025-02-03T11:15:18.981436300
+----------
+Notification ID: NOTIFICATION1738552524205
+Title: Order Delivered
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552182551 has been delivered.
+Datetime: 2025-02-03T11:15:24.205176700
+----------
+Notification ID: NOTIFICATION1738553139031
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552051909 has been completed. Your meal is ready and waiting for you to enjoy at the restaurant. Thank you for dining with us!
+Datetime: 2025-02-03T11:25:39.041933400
+----------
+Notification ID: NOTIFICATION1738553172143
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738552068937 has been completed. Please collect your order at the counter. Thank you for choosing us!
+Datetime: 2025-02-03T11:26:12.144323200
+----------
+Notification ID: NOTIFICATION1738553446800
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM12.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T11:30:46.802412800
+----------
+Notification ID: NOTIFICATION1738567737502
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM56.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T15:28:57.503197400
+----------
+Notification ID: NOTIFICATION1738567764126
+Title: Order Rejected by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738567737484 has been rejected. A refund of RM44.00 has been processed.
+Datetime: 2025-02-03T15:29:24.126721100
+----------
+Notification ID: NOTIFICATION1738570882817
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM14.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T16:21:22.818846300
+----------
+Notification ID: NOTIFICATION1738570907009
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738570882771 has been accepted.
+Datetime: 2025-02-03T16:21:47.056850800
+----------
+Notification ID: NOTIFICATION1738570915247
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738570882771 has been completed. Your meal is ready and waiting for you to enjoy at the restaurant. Thank you for dining with us!
+Datetime: 2025-02-03T16:21:55.248132600
+----------
+Notification ID: NOTIFICATION1738582562023
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM17.00 (including RM5.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T19:36:02.023610300
+----------
+Notification ID: NOTIFICATION1738582596213
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738582561990 has been accepted.
+Datetime: 2025-02-03T19:36:36.224634900
+----------
+Notification ID: NOTIFICATION1738582602132
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738582561990 has been completed. Kindly wait as our runner delivers your food to your address. Thank you for your patience and support!
+Datetime: 2025-02-03T19:36:42.132633300
+----------
+Notification ID: NOTIFICATION1738583096915
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM17.00 (including RM5.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T19:44:56.916929100
+----------
+Notification ID: NOTIFICATION1738583120110
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738583096881 has been accepted.
+Datetime: 2025-02-03T19:45:20.110299400
+----------
+Notification ID: NOTIFICATION1738583125429
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738583096881 has been completed. Kindly wait as our runner delivers your food to your address. Thank you for your patience and support!
+Datetime: 2025-02-03T19:45:25.431015600
+----------
+Notification ID: NOTIFICATION1738583163496
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM14.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-02-03T19:46:03.496036300
+----------
+Notification ID: NOTIFICATION1738583211312
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738583163493 has been accepted.
+Datetime: 2025-02-03T19:46:51.312951300
+----------
+Notification ID: NOTIFICATION1738583218905
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738583163493 has been completed. Your meal is ready and waiting for you to enjoy at the restaurant. Thank you for dining with us!
+Datetime: 2025-02-03T19:46:58.906271300
+----------
+Notification ID: NOTIFICATION1738648924970
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM15.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-02-04T14:02:04.970231500
+----------
+Notification ID: NOTIFICATION1738649717443
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been accepted.
+Datetime: 2025-02-04T14:15:17.471466600
+----------
+Notification ID: NOTIFICATION1738649746551
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been completed. Your meal is ready and waiting for you to enjoy at the restaurant. Thank you for dining with us!
+Datetime: 2025-02-04T14:15:46.551775
+----------
+Notification ID: NOTIFICATION1738649844192
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been accepted.
+Datetime: 2025-02-04T14:17:24.230191500
+----------
+Notification ID: NOTIFICATION1738649852153
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been completed. Your meal is ready and waiting for you to enjoy at the restaurant. Thank you for dining with us!
+Datetime: 2025-02-04T14:17:32.153066900
+----------
+Notification ID: NOTIFICATION1738649875406
+Title: Order Rejected by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been rejected. A refund of RM15.00 has been processed.
+Datetime: 2025-02-04T14:17:55.407506700
+----------
+Notification ID: NOTIFICATION1738650187356
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been accepted.
+Datetime: 2025-02-04T14:23:07.382124400
+----------
+Notification ID: NOTIFICATION1738650306416
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been completed. Your meal is ready and waiting for you to enjoy at the restaurant. Thank you for dining with us!
+Datetime: 2025-02-04T14:25:06.424282
+----------
+Notification ID: NOTIFICATION1738650464087
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been accepted.
+Datetime: 2025-02-04T14:27:44.132138800
+----------
+Notification ID: NOTIFICATION1738650468232
+Title: Order Completed by Vendor
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738648924926 has been completed. Your meal is ready and waiting for you to enjoy at the restaurant. Thank you for dining with us!
+Datetime: 2025-02-04T14:27:48.232992500
+----------
+Notification ID: NOTIFICATION1738651013757
+Title: Review submitted
+Customer Name: a
+Notification Detail: 'Clement is Gay ' review was posted on Arest Cafe's review page
+Datetime: 2025-02-04T14:36:53.751858100
+----------
+Notification ID: NOTIFICATION1738651115803
+Title: Review submitted
+Customer Name: a
+Notification Detail: 'I love Clement ' review was posted on McDonald's's review page
+Datetime: 2025-02-04T14:38:35.793411300
+----------
+Notification ID: NOTIFICATION1738651144356
+Title: Review submitted
+Customer Name: a
+Notification Detail: 'Clem clem ' review was posted on Arest Cafe's review page
+Datetime: 2025-02-04T14:39:04.355048300
+----------
+Notification ID: NOTIFICATION1738653134725
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM14.00 (including RM0.00 delivery fee) completed successfully.
+Datetime: 2025-02-04T15:12:14.725094600
+----------
+Notification ID: NOTIFICATION1738658195198
+Title: Receipt Sent
+Customer Name: a
+Notification Detail: Your receipt is ready below.
+==========================================
+-                          APU FOODCOURT                          -
+-       ** OFFICIAL TRANSACTION RECEIPT **      -
+==========================================
+Transaction ID   : TRANSACTION1737357712172
+Customer Name    : a
+Item Description : Crab Meat Kam Heong Fried Rice x 1
+Total Amount     : -RM15.00
+Transaction Date : 2025-01-20T15:21:52.174351100
+Receipt Status   : Generated
+==========================================
+-    Thank you for dining with us at APU Foodcourt!    -
+We appreciate your support and hope to serve you again soon.
+==========================================
+|| || ||| || |||| ||| ||||| || ||| || ||||| || ||| || |||| ||| ||||| || ||| || |||||| || |||
+|| ||||| ||| || |||| ||| ||| |||| || ||||| || ||| || |||| ||| ||||| || ||| || |||||| || |||
+==========================================
+Datetime: 2025-02-04T16:36:35.211699600
+----------
+Notification ID: NOTIFICATION1738826998022
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM48.00 (including RM10.00 delivery fee) completed successfully.
+Datetime: 2025-02-06T15:29:58.023326400
+----------
+Notification ID: NOTIFICATION1739850180998
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM20.00 (including RM5.00 delivery fee) completed successfully.
+Datetime: 2025-02-18T11:43:00.999559700
+----------
+Notification ID: NOTIFICATION1739850209945
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1739850180972 has been accepted.
+Datetime: 2025-02-18T11:43:29.946209200
+----------
+Notification ID: NOTIFICATION1739850260725
+Title: Order Accepted by Runner
+Customer Name: a
+Notification Detail: Delivery runner is delivering your order with Order ID: ORDER1739850180972.
+Datetime: 2025-02-18T11:44:20.725746500
+----------
+Notification ID: NOTIFICATION1739850265302
+Title: Order Delivered
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1739850180972 has been delivered.
+Datetime: 2025-02-18T11:44:25.302774800
+----------
+Notification ID: NOTIFICATION1739850512251
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738653134701 has been accepted.
+Datetime: 2025-02-18T11:48:32.265595
+----------
+Notification ID: NOTIFICATION1739850513924
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738826998003 has been accepted.
+Datetime: 2025-02-18T11:48:33.924791400
+----------
+Notification ID: NOTIFICATION1739857322379
+Title: Order Rejected by Runners
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738826997965 has been rejected. No runner available for delivery. A refund of RM5 has been processed. Please choose dine-in or take away.
+Datetime: 2025-02-18T13:42:02.386414
+----------
+Notification ID: NOTIFICATION1739857392366
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM20.00 (including RM5.00 delivery fee) completed successfully.
+Datetime: 2025-02-18T13:43:12.366783900
+----------
+Notification ID: NOTIFICATION1739857407734
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM15.00 (including RM5.00 delivery fee) completed successfully.
+Datetime: 2025-02-18T13:43:27.734668100
+----------
+Notification ID: NOTIFICATION1739857425744
+Title: Order Successfully
+Customer Name: a
+Notification Detail: Payment of RM20.00 (including RM5.00 delivery fee) completed successfully.
+Datetime: 2025-02-18T13:43:45.744669800
+----------
+Notification ID: NOTIFICATION1739857438066
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1739857392350 has been accepted.
+Datetime: 2025-02-18T13:43:58.066223400
+----------
+Notification ID: NOTIFICATION1739857439890
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1739857425734 has been accepted.
+Datetime: 2025-02-18T13:43:59.890152200
+----------
+Notification ID: NOTIFICATION1739857491762
+Title: Order Accepted by Runner
+Customer Name: a
+Notification Detail: Delivery runner is delivering your order with Order ID: ORDER1739857392350.
+Datetime: 2025-02-18T13:44:51.763261200
+----------
+Notification ID: NOTIFICATION1739857496800
+Title: Order Accepted by Runner
+Customer Name: a
+Notification Detail: Delivery runner is delivering your order with Order ID: ORDER1739857425734.
+Datetime: 2025-02-18T13:44:56.800043600
+----------
+Notification ID: NOTIFICATION1739857500106
+Title: Order Delivered
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1739857392350 has been delivered.
+Datetime: 2025-02-18T13:45:00.106943700
+----------
+Notification ID: NOTIFICATION1739857501612
+Title: Order Delivered
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1739857425734 has been delivered.
+Datetime: 2025-02-18T13:45:01.612683600
+----------
+Notification ID: NOTIFICATION1739867002819
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1738826997965 has been accepted.
+Datetime: 2025-02-18T16:23:22.825705300
+----------
+Notification ID: NOTIFICATION1739867004815
+Title: Order Accepted
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1739857407725 has been accepted.
+Datetime: 2025-02-18T16:23:24.815848900
+----------
+Notification ID: NOTIFICATION1739867031658
+Title: Order Accepted by Runner
+Customer Name: a
+Notification Detail: Delivery runner is delivering your order with Order ID: ORDER1739857407725.
+Datetime: 2025-02-18T16:23:51.658124200
+----------
+Notification ID: NOTIFICATION1739867036313
+Title: Order Delivered
+Customer Name: a
+Notification Detail: Your order with Order ID: ORDER1739857407725 has been delivered.
+Datetime: 2025-02-18T16:23:56.314387900
+----------

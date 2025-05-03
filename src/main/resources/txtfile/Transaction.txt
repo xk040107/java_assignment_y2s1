@@ -1,0 +1,297 @@
+Transaction ID: TRANSACTION1737049359411
+Customer Name: e
+Item Description: Crispy Chicken Burger x 1, Aglio Olio Pasta x 1
+Transaction Type: Payment
+Total Amount: -RM35.00
+Datetime: 2025-01-17T01:42:39.468944100
+----------
+Transaction ID: TRANSACTION1737053263546
+Customer Name: e
+Order ID: ORDER1737049359416
+Transaction Type: Refund
+Refund Amount: RM5.00
+Datetime: 2025-01-17T02:47:43.546153700
+----------
+Transaction ID: TRANSACTION1737357026186
+Customer Name: a
+Item Description: Mala Whole Leg Chicken Burger x 1
+Transaction Type: Payment
+Total Amount: -RM19.00
+Datetime: 2025-01-20T15:10:26.239661100
+Receipt: Generated
+----------
+Transaction ID: TRANSACTION1737357682101
+Customer Name: a
+Item Description: Aglio Olio Pasta x 1
+Transaction Type: Payment
+Total Amount: -RM20.00
+Datetime: 2025-01-20T15:21:22.154241200
+Receipt: Generated
+----------
+Transaction ID: TRANSACTION1737357699336
+Customer Name: a
+Item Description: Mala Whole Leg Chicken Burger x 1
+Transaction Type: Payment
+Total Amount: -RM14.00
+Datetime: 2025-01-20T15:21:39.337949
+----------
+Transaction ID: TRANSACTION1737357712172
+Customer Name: a
+Item Description: Crab Meat Kam Heong Fried Rice x 1
+Transaction Type: Payment
+Total Amount: -RM15.00
+Datetime: 2025-01-20T15:21:52.174351100
+Receipt: Generated
+----------
+Transaction ID: TRANSACTION1737357741561
+Customer Name: a
+Order ID: ORDER1737357699336
+Transaction Type: Refund
+Refund Amount: RM14.00
+Datetime: 2025-01-20T15:22:21.563065400
+----------
+Transaction ID: TRANSACTION1737390981087
+Customer Name: a
+Item Description: Truffle Carbonara with Bacon Brisket x 1
+Transaction Type: Payment
+Total Amount: -RM13.00
+Datetime: 2025-01-21T00:36:21.106820
+----------
+Transaction ID: TRANSACTION1737391098720
+Customer Name: a
+Item Description: Truffle Carbonara with Bacon Brisket x 1
+Transaction Type: Payment
+Total Amount: -RM13.00
+Datetime: 2025-01-21T00:38:18.734424100
+----------
+Transaction ID: TRANSACTION1737391312727
+Customer Name: a
+Item Description: Crab Meat Kam Heong Fried Rice x 1
+Transaction Type: Payment
+Total Amount: -RM15.00
+Datetime: 2025-01-21T00:41:52.753827300
+----------
+Transaction ID: TRANSACTION1737391583640
+Customer Name: a
+Item Description: Truffle Carbonara with Bacon Brisket x 1
+Transaction Type: Payment
+Total Amount: -RM13.00
+Datetime: 2025-01-21T00:46:23.658114300
+----------
+Transaction ID: TRANSACTION1737436354770
+Customer Name: a
+Item Description: Truffle Carbonara with Bacon Brisket x 1
+Transaction Type: Payment
+Total Amount: -RM13.00
+Datetime: 2025-01-21T13:12:34.798352300
+----------
+Transaction ID: TRANSACTION1737437314147
+Customer Name: a
+Item Description: Truffle Carbonara with Bacon Brisket x 1
+Transaction Type: Payment
+Total Amount: -RM13.00
+Datetime: 2025-01-21T13:28:34.163788400
+----------
+Transaction ID: TRANSACTION1737610232140
+Customer Name: a
+Order ID: ORDER1737357712172
+Transaction Type: Refund
+Refund Amount: RM15.00
+Datetime: 2025-01-23T13:30:32.153881200
+----------
+Transaction ID: TRANSACTION1737611026170
+Customer Name: a
+Item Description: Mala Whole Leg Chicken Burger x 2, Crab Meat Kam Heong Fried Rice x 2
+Transaction Type: Payment
+Total Amount: -RM63.00
+Datetime: 2025-01-23T13:43:46.192202200
+----------
+Transaction ID: TRANSACTION1737617500117
+Customer Name: a
+Order ID: ORDER1737611026171
+Transaction Type: Refund
+Refund Amount: RM63.0
+Datetime: 2025-01-23T15:31:40.117033200
+----------
+Transaction ID: TRANSACTION1737617762474
+Customer Name: a
+Order ID: ORDER1737611026171
+Transaction Type: Refund
+Refund Amount: RM63.0
+Datetime: 2025-01-23T15:36:02.475935300
+----------
+Transaction ID: TRANSACTION1737617811525
+Customer Name: a
+Order ID: ORDER1737611026171
+Transaction Type: Refund
+Refund Amount: RM63.0
+Datetime: 2025-01-23T15:36:51.525526900
+----------
+Transaction ID: TRANSACTION1737620228887
+Customer Name: a
+Order ID: ORDER1737357682111
+Transaction Type: Refund
+Refund Amount: RM5.0
+Datetime: 2025-01-23T16:17:08.887084500
+----------
+Transaction ID: TRANSACTION1737620671414
+Customer Name: a
+Order ID: ORDER1737357682111
+Transaction Type: Refund
+Refund Amount: RM5.0
+Datetime: 2025-01-23T16:24:31.414974
+----------
+Transaction ID: TRANSACTION1737620766134
+Customer Name: a
+Order ID: ORDER1737611026171
+Transaction Type: Refund
+Refund Amount: RM63.0
+Datetime: 2025-01-23T16:26:06.134393200
+----------
+Transaction ID: TRANSACTION1737621627932
+Customer Name: a
+Order ID: ORDER1737611026171
+Transaction Type: Refund
+Refund Amount: RM63.0
+Datetime: 2025-01-23T16:40:27.933136300
+----------
+Transaction ID: TRANSACTION1737701883201
+Customer Name: a
+Item Description: Mala Whole Leg Chicken Burger x 2, Aglio Olio Pasta x 1
+Transaction Type: Payment
+Total Amount: -RM48.00
+Datetime: 2025-01-24T14:58:03.257394600
+----------
+Transaction ID: TRANSACTION1738552051900
+Customer Name: a
+Item Description: Mala Whole Leg Chicken Burger x 1, Aglio Olio Pasta x 1, Crab Meat Kam Heong Fried Rice x 3
+Transaction Type: Payment
+Total Amount: -RM74.00
+Datetime: 2025-02-03T11:07:31.935981600
+----------
+Transaction ID: TRANSACTION1738552068937
+Customer Name: a
+Item Description: Claypot Lau Shu Fen x 1
+Transaction Type: Payment
+Total Amount: -RM12.00
+Datetime: 2025-02-03T11:07:48.938585900
+----------
+Transaction ID: TRANSACTION1738552182551
+Customer Name: a
+Item Description: Dragon Roll x 2, Salmon Mentai Roll x 1
+Transaction Type: Payment
+Total Amount: -RM60.40
+Datetime: 2025-02-03T11:09:42.573827900
+----------
+Transaction ID: TRANSACTION1738553446751
+Customer Name: a
+Item Description: Claypot Yi Mee x 1
+Transaction Type: Payment
+Total Amount: -RM12.00
+Datetime: 2025-02-03T11:30:46.793410100
+----------
+Transaction ID: TRANSACTION1738567737450
+Customer Name: a
+Item Description: Claypot Lau Shu Fen x 1, Mala Whole Leg Chicken Burger x 1, Aglio Olio Pasta x 1, Almond Cheese Cake x 1
+Transaction Type: Payment
+Total Amount: -RM56.00
+Datetime: 2025-02-03T15:28:57.494215500
+----------
+Transaction ID: TRANSACTION1738567764123
+Customer Name: a
+Order ID: ORDER1738567737484
+Transaction Type: Refund
+Refund Amount: RM44.00
+Datetime: 2025-02-03T15:29:24.125715
+----------
+Transaction ID: TRANSACTION1738570882763
+Customer Name: a
+Item Description: Mala Whole Leg Chicken Burger x 1
+Transaction Type: Payment
+Total Amount: -RM14.00
+Datetime: 2025-02-03T16:21:22.808836500
+----------
+Transaction ID: TRANSACTION1738582561985
+Customer Name: a
+Item Description: Claypot Lau Shu Fen x 1
+Transaction Type: Payment
+Total Amount: -RM17.00
+Datetime: 2025-02-03T19:36:02.019611300
+----------
+Transaction ID: TRANSACTION1738583096879
+Customer Name: a
+Item Description: Claypot Lau Shu Fen x 1
+Transaction Type: Payment
+Total Amount: -RM17.00
+Datetime: 2025-02-03T19:44:56.911406900
+----------
+Transaction ID: TRANSACTION1738583163493
+Customer Name: a
+Item Description: Mala Whole Leg Chicken Burger x 1
+Transaction Type: Payment
+Total Amount: -RM14.00
+Datetime: 2025-02-03T19:46:03.494511400
+----------
+Transaction ID: TRANSACTION1738648924919
+Customer Name: a
+Item Description: Almond Cheese Cake x 1
+Transaction Type: Payment
+Total Amount: -RM15.00
+Datetime: 2025-02-04T14:02:04.962690300
+----------
+Transaction ID: TRANSACTION1738649875404
+Customer Name: a
+Order ID: ORDER1738648924926
+Transaction Type: Refund
+Refund Amount: RM15.00
+Datetime: 2025-02-04T14:17:55.405522300
+----------
+Transaction ID: TRANSACTION1738653134697
+Customer Name: a
+Item Description: Mala Whole Leg Chicken Burger x 1
+Transaction Type: Payment
+Total Amount: -RM14.00
+Datetime: 2025-02-04T15:12:14.721093600
+----------
+Transaction ID: TRANSACTION1738826997956
+Customer Name: a
+Item Description: Nasi Lemak x 1, Crispy Chicken Burger x 1, Aglio Olio Pasta x 1
+Transaction Type: Payment
+Total Amount: -RM48.00
+Datetime: 2025-02-06T15:29:58.015330800
+----------
+Transaction ID: TRANSACTION1739850180968
+Customer Name: a
+Item Description: Aglio Olio Pasta x 1
+Transaction Type: Payment
+Total Amount: -RM20.00
+Datetime: 2025-02-18T11:43:00.994560400
+----------
+Transaction ID: TRANSACTION1739857322387
+Customer Name: a
+Order ID: ORDER1738826997965
+Transaction Type: Refund
+Refund Amount: RM5.00
+Datetime: 2025-02-18T13:42:02.387413400
+----------
+Transaction ID: TRANSACTION1739857392347
+Customer Name: a
+Item Description: Aglio Olio Pasta x 1
+Transaction Type: Payment
+Total Amount: -RM20.00
+Datetime: 2025-02-18T13:43:12.364784400
+----------
+Transaction ID: TRANSACTION1739857407725
+Customer Name: a
+Item Description: Crispy Chicken Burger x 1
+Transaction Type: Payment
+Total Amount: -RM15.00
+Datetime: 2025-02-18T13:43:27.733572
+----------
+Transaction ID: TRANSACTION1739857425734
+Customer Name: a
+Item Description: Crab Meat Kam Heong Fried Rice x 1
+Transaction Type: Payment
+Total Amount: -RM20.00
+Datetime: 2025-02-18T13:43:45.743672
+----------

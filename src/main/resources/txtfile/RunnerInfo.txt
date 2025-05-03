@@ -1,0 +1,2 @@
+Username: c
+ProfilePic: C:\JavaAsg\FoodDeliverySystem\src\main\resources\ProfilePic\dinasour.jpg

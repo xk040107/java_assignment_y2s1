@@ -1,0 +1,85 @@
+User Code: user001
+Username: a
+Email: a@gmail.com
+Password: aaaaaaa
+Role: Customer
+Date of Birth: 2024-2-2
+Credit: RM8620.00
+Home Address: aaaHome
+Work Address: aaaWork
+Other Address: aaaOther
+Default Address: Other Address
+-----------------------
+User Code: user002
+Username: Arest Cafe
+Email: arestcafe@gmail.com
+Password: arestcafe
+Role: Vendor
+Date of Birth: 2001-1-1
+-----------------------
+User Code: user003
+Username: c
+Email: c@gmail.com
+Password: ccccccc
+Role: Runner
+Date of Birth: 2020-1-1
+-----------------------
+User Code: user004
+Username: McDonald's
+Email: mcdonald@gmail.com
+Password: mcdonald
+Role: Vendor
+Date of Birth: 2001-1-1
+-----------------------
+User Code: user005
+Username: e
+Email: e@gmail.com
+Password: eeeeeee
+Role: Customer
+Date of Birth: 2020-1-1
+Credit: RM50.00
+Home Address: eeeHome
+Work Address: eeeWork
+Other Address: eeeOther
+Default Address: Home Address
+-----------------------
+User Code: user006
+Username: f
+Email: f@gmail.com
+Password: fffffff
+Role: Customer
+Date of Birth: 2020-1-1
+Credit: RM0
+Home Address: fffHome
+Work Address: fffWork
+Other Address: fffOther
+Default Address: Home Address
+-----------------------
+User Code: user007
+Username: Thong Kee
+Email: thongkee@gmail.com
+Password: thongkee
+Role: Vendor
+Date of Birth: 2000-1-1
+-----------------------
+User Code: user008
+Username: Sushi Zanmai
+Email: sushizanmai@gmail.com
+Password: sushizanmai
+Role: Vendor
+Date of Birth: 2001-1-1
+-----------------------
+User Code: user009
+Username: g
+Email: g@gmail.com
+Password: ggggggg
+Role: Runner
+Date of Birth: 2001-1-1
+-----------------------
+User Code: user010
+Username: h
+Email: h@gmail.com
+Password: hhhhhhh
+Role: Runner
+Date of Birth: 2001-1-1
+-----------------------

@@ -1,0 +1,25 @@
+Review ID: REVIEWID1738651013751
+Review Type: Vendor
+Customer Name: a
+Vendor Name: Arest Cafe
+Remarks: Clement is Gay
+Datetime: 2025-02-04T14:36:53.751858100
+----------
+Review ID: ORDERREVIEWID1738651115794
+Order ID: ORDER1738570472896
+Review Type: Order
+Customer Name: a
+Vendor Name: Arest Cafe
+Order Method: Delivery
+Remarks: I love Clement
+Datetime: 2025-02-04T14:38:35.793411300
+----------
+Review ID: ORDERREVIEWID1738651144355
+Order ID: ORDER1738570472402
+Review Type: Order
+Customer Name: a
+Vendor Name: Arest Cafe
+Order Method: Take Away
+Remarks: Clem clem
+Datetime: 2025-02-04T14:39:04.355048300
+----------

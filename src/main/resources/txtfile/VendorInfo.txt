@@ -1,0 +1,11 @@
+Username: Arest Cafe
+ProfilePic: C:\JavaAsg\FoodDeliverySystem\src\main\resources\ProfilePic\arestcafe.jpg
+Username: McDonald's
+ProfilePic: C:\JavaAsg\FoodDeliverySystem\src\main\resources\ProfilePic\Mcdprofilepic.png
+Username: Thong Kee
+ProfilePic: C:\JavaAsg\FoodDeliverySystem\src\main\resources\ProfilePic\thongkeeprofile.png
+Username: Sushi Zanmai
+ProfilePic: C:\JavaAsg\FoodDeliverySystem\src\main\resources\ProfilePic\suhsizanmai.jpg
+
+
+
